@@ -1,11 +1,27 @@
 1) Project name: "Favorite Music Collection"
-2) Project idea: "Favorite Music Collection" is a web application that alows to search for a favorite artist.
- - User's input:  an artis name. 
- -  Search criteria:  songs, albums, or videos.
- - Serach items per page: 5, 10, 15, or 20
+2) Project idea: "Favorite Music Collection" is a web application that allows you to search for a favorite artist.
+I am going to recreate an existing project (a final project that I did for the previous JavaScript course) using React.
+ - User's input:  an artist name. 
+ - Search criteria:  songs, albums, or videos.
+ - Search items displayed per page: 5, 10, 15, or 20
  - Output (depending on the search criteria): List of songs, or videos, or albums
- - Every item will be a clickable link listed with track/video/album name, artis's image 
- - Linck will redirect to a new page where user can listen/watch song/video or view an album.
- + If I will have enugh time, I would like to use Firebase feature to store list of vaforite artist/songs 
+ - Every item will be a clickable link listed with track/video/album name, artist's image 
+ - Linck will redirect to a new page where users can listen to songs/watch videos or view an album.
+ + If I will have enough time, I would like to use Firebase feature to store a list of favorite artist/songs 
  
- 3) Wireframes: I have attached a couple of images to the project, design can be vary. 
+ 3) Wireframes: I have attached a couple of images to the project, design can be varied. 
+ These screenshots are taken from the final project that I did for the previous JavaScript course.
+ 4) Dependencies: I am going to use free API https://itunes.apple.com. Firebase is optional
+ 5) Tasks: 
+     - Create react app
+     - Refactor existing JavaScript project code utilizing Component API
+     - Define necessary Components and their dependencies on each other: Home page with an input field, 
+       render components with a search result with track names, images, clickable links 
+     - Utilize API fetch call
+     - Utilize Router API
+     - Use CSS 
+     - Make sure that app works 
+     - Deploy the app
+   6) Plan: 1st week - Finalize the final project idea and submit week7-assignment 
+            2nd week - Create an app and work on the main components, make sure that everything works as expected. User acceptance testing.
+            3rd week - Work on CSS design, deployment 
