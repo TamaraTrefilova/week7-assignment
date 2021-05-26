@@ -1,0 +1,11 @@
+1) Project name: "Favorite Music Collection"
+2) Project idea: "Favorite Music Collection" is a web application that alows to search for a favorite artist.
+ - User's input:  an artis name. 
+ -  Search criteria:  songs, albums, or videos.
+ - Serach items per page: 5, 10, 15, or 20
+ - Output (depending on the search criteria): List of songs, or videos, or albums
+ - Every item will be a clickable link listed with track/video/album name, artis's image 
+ - Linck will redirect to a new page where user can listen/watch song/video or view an album.
+ + If I will have enugh time, I would like to use Firebase feature to store list of vaforite artist/songs 
+ 
+ 3) Wireframes: I have attached a couple of images to the project, design can be vary. 
